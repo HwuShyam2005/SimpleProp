@@ -3,14 +3,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #ec5578;
+    background-color: #da1984;
 }
 
 .header_text {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
     font-weight: bold;
-    color: #fd003b;
+    color: #ffffff;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
